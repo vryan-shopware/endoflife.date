@@ -149,11 +149,11 @@ Shopware follows [semantic versioning](https://semver.org/).
 
 ## Feature and bug fix releases
 
-In Shopware 6, bug and security fixes might appear in every patch release, whereas features, bug, and security fixes might appear in minor releases as well as in major releases. Additionally, in major releases, there will appear backward compatibility breaks.
+In Shopware 6, bug and security fixes might appear in every patch release, whereas features, bug, and security fixes might appear in minor releases as well as in major releases. Additionally, in major releases, there may be compatibility breaks.
 
 ## Security
 
-Shopware is an Open Source software vendor and takes security issues serious. Here, you will find information on how to report security related issues to us and how we process such issues.
+Shopware is an Open Source software vendor and takes security issues very seriously. Here, you will find information on how to report security-related issues to us and how we process such issues.
 
 If you discover a security issue in one of our products or services, please get in touch with us immediately. Our policy is to limit public knowledge about a security issue until we provide a fix for it.
 
@@ -164,7 +164,7 @@ We kindly ask you to inform us first and keep the vulnerability confidential for
 
 ## Extended support for Shopware 5
 
-* All repositories of Shopware  5 are available on GitHub: [github.com/shopware5/](https://github.com/shopware5/); the vendor _shopware AG_ is transferring the project to the community and is ending all support as of August 2024.
+* All repositories of Shopware 5 are available on GitHub: [github.com/shopware5/](https://github.com/shopware5/); the vendor _shopware AG_ is transferring the project to the community and is ending all support effective August 2024.
 * If you have to use Shopware 5 in a project after the official support has ended,  [safefive](https://safefive.de/en/home/) is offering security and compatibility updates as a commercial service.
 
 ## Release notes
