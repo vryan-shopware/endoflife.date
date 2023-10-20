@@ -149,37 +149,36 @@ Shopware follows [semantic versioning](https://semver.org/).
 
 ## Feature and bug fix releases
 
-In Shopware 6, bug and security fixes might appear in every patch release, whereas features, bug and security fixes might appear in minor releases as well as in major releases. Additionally, in major releases, there will appear backward compatibility breaks. 
+In Shopware 6, bug and security fixes might appear in every patch release, whereas features, bug, and security fixes might appear in minor releases as well as in major releases. Additionally, in major releases, there will appear backward compatibility breaks.
 
 ## Security
 
-Shopware is an Open Source software vendor and naturally takes security issues serious. Here, you will find information on how to report security-related issues to us and how we process such issues.
+Shopware is an Open Source software vendor and takes security issues serious. Here, you will find information on how to report security related issues to us and how we process such issues.
 
-If you discovered a security issue in one of our products or services, please get in touch with us immediately. Our policy is to limit public knowledge about a security issue until we provide a fix for it.
+If you discover a security issue in one of our products or services, please get in touch with us immediately. Our policy is to limit public knowledge about a security issue until we provide a fix for it.
 
-We kindly ask you to inform us first and keep the vulnerability confidential for the general public as this might compromise existing businesses.
+We kindly ask you to inform us first and keep the vulnerability confidential for the public, as this will compromise existing businesses.
 
-* Information on how to report security issues in Shopware: [https://www.shopware.com/security.txt](https://www.shopware.com/security.txt) 
-* Protect your shop from vulnerabilities with the [Shopware Security Plugin](https://store.shopware.com/en/swag575294366635f/shopware-security-plugin.html). If you’re not able to update to the latest Shopware version (as recommended), you would be able to protect your shop using updates from this plugin. In order to protect yourself from possible security vulnerabilities, simply download and activate the plugin in the administration panel. Please be certain to always keep this plugin updated to its latest version.  
- 
+* Information on how to report security issues in Shopware: [shopware.com/security.txt](https://www.shopware.com/security.txt) 
+* If you are unable to update to the latest Shopware version, you are able to protect your shop from vulnerabilities using the [Shopware Security Plugin](https://store.shopware.com/en/swag575294366635f/shopware-security-plugin.html).  To protect yourself from possible security vulnerabilities, download and activate the plugin in the administration panel of your shop. It is important to always keep this plugin updated to the latest version. 
 
 ## Extended support for Shopware 5
 
-* All Shopware 5 projects are available on Github under an open source license: [https://github.com/shopware5/](https://github.com/shopware5/); the vendor _Shopware AG_ is not liable for this repository any longer.
-* Although the official vendor support of Shopware 5 is marked as EoL, there is an ongoing _commercial_ offer by the [safefive project](https://safefive.de/en/home/) for security insurance.
+* All repositories of Shopware  5 are available on GitHub: [github.com/shopware5/](https://github.com/shopware5/); the vendor _shopware AG_ is transferring the project to the community and is ending all support as of August 2024.
+* If you have to use Shopware 5 in a project after the official support has ended,  [safefive](https://safefive.de/en/home/) is offering security and compatibility updates as a commercial service.
 
 ## Release notes
 
-* [https://github.com/shopware/shopware/blob/trunk/CHANGELOG.md](https://github.com/shopware/shopware/blob/trunk/CHANGELOG.md)
+* [github.com/shopware/shopware/blob/trunk/CHANGELOG.md](https://github.com/shopware/shopware/blob/trunk/CHANGELOG.md)
 
 ## System requirements
 
-* [https://docs.shopware.com/en/shopware-6-en/first-steps/system-requirements](https://docs.shopware.com/en/shopware-6-en/first-steps/system-requirements)
+* [docs.shopware.com/en/shopware-6-en/first-steps/system-requirements](https://docs.shopware.com/en/shopware-6-en/first-steps/system-requirements)
 
 ## PHP Compatibility
 
-| Shopware versions | tested on PHP versions |
-| -------- | ------- |
-| 6.5.0.0 until latest | 8.1, 8.2 |
-| 6.4.16.0 - 6.4.20.2 | 7.4, 8.0, 8.1 |
-| 6.4.15.0 - 6.4.15.2 | 7.4, 8.0 |
+| Shopware versions    | tested on PHP versions |
+|----------------------|------------------------|
+| 6.5.0.0 until latest | 8.1, 8.2               |
+| 6.4.16.0 - 6.4.20.2  | 7.4, 8.0, 8.1          |
+| 6.4.15.0 - 6.4.15.2  | 7.4, 8.0               |
