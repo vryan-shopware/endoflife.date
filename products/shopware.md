@@ -7,7 +7,7 @@ permalink: /shopware
 # alternate_urls: /
 versionCommand: php bin/console --version
 # releasePolicyLink: https://shopware.com/
-changelogTemplate: "https://www.shopware.com/en/changelog/#release-{{'__LATEST__'|replace:'.','-'}}"
+changelogTemplate: "https://github.com/shopware/shopware/blob/{{'__LATEST__'}}/CHANGELOG.md"
 releaseDateColumn: true
 activeSupportColumn: Bug fix maintenance
 eolColumn: Security maintenance
